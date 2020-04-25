@@ -1,2 +1,9 @@
-__pycache__
+.DS_Store
+.env
+.vscode
+venv
 *.pyc
+__pycache__*
+staticfiles
+node_modules
+static/media
