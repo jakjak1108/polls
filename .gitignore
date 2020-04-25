@@ -2,6 +2,7 @@
 .env
 .vscode
 venv
+venv_polls
 *.pyc
 __pycache__*
 staticfiles
